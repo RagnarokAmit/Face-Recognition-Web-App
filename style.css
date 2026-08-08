@@ -1,19 +1,26 @@
-body{
+body {
     color: red;
     background-color: lightblue;
 }
 
-.heading{
+.heading {
     width: 80%;
     font-size: 22px;
 }
 
-#camera{
+#camera {
     border: 2px dashed gray;
     width: 350px;
     height: 300px;
 }
 
-.name_of_objects, #result_object_name, #result_object-accuracy{
+.name_of_objects,
+#result_object_name,
+#result_object_accuracy {
     color: green;
+}
+
+.info-text,
+.result-text {
+    font-size: 22px;
 }
