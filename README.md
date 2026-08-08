@@ -52,7 +52,7 @@ The original model was trained to identify:
 
 ## 🔄 Project Flow
 
-```text
+```
 Webcam
    ↓
 Capture Image
@@ -64,3 +64,41 @@ ml5.js Image Classifier
 Custom Teachable Machine Model
    ↓
 Predicted Person + Confidence
+```
+
+▶️ How to Run
+Clone or download this repository.
+Open the project using a local development server.
+Allow webcam access when prompted.
+Click Capture Image.
+Click Identify Image.
+The predicted person and confidence score will be displayed.
+📚 What I Learned
+
+This project helped me explore:
+
+Machine learning in the browser
+Image classification
+Google Teachable Machine
+ml5.js
+WebcamJS
+Webcam integration
+Capturing images with JavaScript
+Using custom-trained machine learning models
+Displaying model predictions and confidence scores
+🔮 Future Improvements
+Improve the training dataset
+Increase prediction accuracy
+Add more classes
+Enable continuous real-time recognition
+Add a registration system for new users
+Improve the user interface
+Upgrade to a modern machine learning library
+👨‍💻 Author
+
+Amit Vikram Mishra
+
+Mechatronics Engineering Student @ SRM KTR
+
+Repository name:
+Face-Recognition-Web-App
